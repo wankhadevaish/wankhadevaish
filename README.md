@@ -1,5 +1,4 @@
 
-![Alt text](https://sample/url/name-of-gif-file.gif)
 <h1 align="center">Hi 👋, I'm Vaishnavi Wankhade</h1>
 <h3 align="center">Student exploring the programming world..</h3>
 
