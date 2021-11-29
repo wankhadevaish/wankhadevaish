@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I think I am Entertaining**
 
-<p><img align ="right"alt="gif" src="gif.htm" width="500"height="320"/></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tweetonaaviii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweetonaaviii" height="30" width="40" /></a>
