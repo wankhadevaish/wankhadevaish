@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact **I think I am Entertaining**
 
+![cat](https://user-images.githubusercontent.com/93776455/143844534-74714234-bc1d-4427-b90d-942ce8c7f250.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
