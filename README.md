@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I think I am Entertaining**
 
-<p><img align ="right"alt="gif" src="https://main/gif.html" width="500"height="320"/></p>
+<p><img align ="right"alt="gif" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F645703665318113653%2F&psig=AOvVaw0kB3ZVwl82BvfiXyWLfsEA&ust=1638264379632000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjwy8KgvfQCFQAAAAAdAAAAABAD" width="500"height="320"/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tweetonaaviii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweetonaaviii" height="30" width="40" /></a>
